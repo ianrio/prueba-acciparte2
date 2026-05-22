@@ -35,3 +35,7 @@ Cada type se pinta con unos colores y una forma que he detrminado (Tipo coche, R
 
 Todo esto está en en `src/elementTypes.js`, de manera queañadir un nuevo tipo solo requiere ampliar ese objeto.
 
+## Futuras mejoras
+
+-Añadir rotación a los elementos para angular mejor la dirección de los accidentes
+-Elimiar elementos cuando se salgan del "canvas"
